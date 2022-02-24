@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Francis Lovelace, Esquire, recorder of the city of Canterbvry to His Majestie King Charles the Second, upon his arrivall to Kent, and coming to Canturbury that day he landed, being the 25th day of May, 1660, and in the twelth year of his reign over England &amp; c.</title>
+            <author>Lovelace, Francis, 1594-1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49293</idno>
+            <idno type="STC">Wing L3239</idno>
+            <idno type="STC">ESTC R25486</idno>
+            <idno type="EEBO-CITATION">08988908</idno>
+            <idno type="OCLC">ocm 08988908</idno>
+            <idno type="VID">42152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49293)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42152)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1289:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Francis Lovelace, Esquire, recorder of the city of Canterbvry to His Majestie King Charles the Second, upon his arrivall to Kent, and coming to Canturbury that day he landed, being the 25th day of May, 1660, and in the twelth year of his reign over England &amp; c.</title>
+                  <author>Lovelace, Francis, 1594-1664.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Griffin for Matthew Walbancke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Printed and licenc'd according to order."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42152:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 105 -->
+            <p>THE SPEECH OF <hi>FRANCIS LOVELACE,</hi> Eſquire, Recorder of the City of CANTERBVRY, To His Majeſtie, King CHARLES THE SECOND.</p>
+            <p>Upon his Arrivall to KENT, And coming to <hi>CANTERB<g ref="char:V">Ʋ</g>RY</hi> that day he landed, being the 25<hi rend="sup">th</hi> day of <hi>May,</hi> 1660. and in the twelfth year of his Reign over <hi>England,</hi> &amp;c.</p>
+            <p>Printed and Licenc'd according to Order.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>S. Griffin,</hi> for <hi>Matthew Walbancke</hi> at Grays-Inne Gate, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:42152:2"/>
+            <!-- PDF PAGE 106 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <pb n="5" facs="tcp:42152:2"/>
+            <!-- PDF PAGE 106 -->
+            <head>THE SPEECH OF <hi>Francis Lovelace,</hi> 
+               <abbr>Eſq</abbr> Recorder of the City of <hi>CANTERB<g ref="char:V">Ʋ</g>RY,</hi> to his Ma<g ref="char:EOLhyphen"/>jeſtie King <hi>CHARLES</hi> the Second, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>s<seg rend="decorInit">M</seg>Ay it pleaſe your moſt Excellent Majeſtie;</salute>
+            </opener>
+            <p>Your loyal Subjects, the Mayor, Aldermen, and Commonal<g ref="char:EOLhyphen"/>ty of this your City of <hi>Canterbury,</hi> by me preſent their hearty &amp; ſincere gratula<g ref="char:EOLhyphen"/>tions and Thanks to God for your Majeſties happy Arrivall to this your Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and in that for your acceſs to this Citie. This Citie of <hi>Canterbury</hi> (though much de<g ref="char:EOLhyphen"/>cayed) was ſometimes the Metropolitan Ci<g ref="char:EOLhyphen"/>ty of this Kingdom, and had in it one of the faireſt and moſt reſplendent Cathedrall
+<pb n="4" facs="tcp:42152:3"/>
+               <!-- PDF PAGE 107 -->Churches, that for its beauty and ſtructure might have been compared to any Church in <hi>Europe:</hi> It was endowed with great and plen<g ref="char:EOLhyphen"/>tifull Revenues; It was ſupplyed with Grave, Learned, Orthodox Divines; but all are gone and taken from her, and her Fabrick ruined and almoſt demoliſhed, and the City impoveriſhed, waſted, and defaced, and her Gates of late torn from her Walls, and cut in pieces. This your Kingdome of <hi>England</hi> is, and alwayes was a Monarchy ſucceſſive by in<g ref="char:EOLhyphen"/>herent Birth-right, governed by Ancient known Lawes that have been refined and perfected by the wiſeſt of men in all former Succeſſions of Ages, and proved and ap<g ref="char:EOLhyphen"/>proved by continuall experience to be good and profitable for this Nation; wherein Kings and Queens, your Majeſties Royall Progenitors, and their Subjects have flouriſhed in peace and plenty: But in theſe later times, during your Majeſties unhappy Abſence, her Lawes have been over-grown and choak<g ref="char:EOLhyphen"/>ed up with weeds, and her government uſur<g ref="char:EOLhyphen"/>ped by bold ambitious ſelf-ſeeking men, who like Beaſts have made a prey of your moſt
+<pb n="5" facs="tcp:42152:3"/>
+               <!-- PDF PAGE 107 -->Loyal Subjects, and trodden down and tram<g ref="char:EOLhyphen"/>pled our Lawes, Liberties, and Properties under foot, and exerciſed Tyranny, Oppreſ<g ref="char:EOLhyphen"/>ſions, and all manner of Cruelties, Things that our Lawes never knew, never owned: And what hath been worſe to us, and came neereſt our hearts, have too too long debar<g ref="char:EOLhyphen"/>red us of the enjoyment of your moſt Sacred Majeſtie.</p>
+            <p>But <hi>Magna eſt veritas &amp; praevalens;</hi> Truth though ſhe may be impugned, yet will ſhe of her ſelf ever prevail in the end, &amp; flouriſh like a Palm Tree. She may for a time be trodden down, but ſhe can never be trodden out. The Laws of <hi>England</hi> are <hi>Iura Coronae, Iura Regiae</hi> and though they have of late been trodden down, they are not trodden out. Your Maje<g ref="char:EOLhyphen"/>ſties juſt rights hath been prevalent to reſtore you to your own who like the ſun in the Fir<g ref="char:EOLhyphen"/>mament, with thoſe glorious Starts your now Parliament and his Excellencie the Lord General <hi>Monck,</hi> have diſperſed and diſſipated all thoſe black Clouds, and will cauſe our Laws again to bud out, ſpring up, and flouriſh more then ever. And now moſt gracious So<g ref="char:EOLhyphen"/>veraign
+<pb n="6" facs="tcp:42152:4"/>
+               <!-- PDF PAGE 108 -->that it hath pleaſed the great God of Heaven &amp; Earth, the King of Kings, out of his great goodneſs to preſerve your Majeſtie, and out of his infinite Wiſdom &amp; providence to re<g ref="char:EOLhyphen"/>ſtore you to the actual poſſeſſion of your moſt undoubted Birth-Right &amp; Inheritance, &amp; to vouchſafe to us your Subjects this, the grea<g ref="char:EOLhyphen"/>teſt bleſſing this World can afford, to enjoy your Majeſtie, and to ſee your face here, which like the Sun ariſing in the Eaſt hath enlightn<g ref="char:EOLhyphen"/>ed &amp; enlarged our Hearts with Joy and glad<g ref="char:EOLhyphen"/>neſs: May your Ma<hi rend="sup">tie</hi> enjoy all your Rights and prerogatives: May all the people of this Land render to your Majeſtie all loyaltie, faithful<g ref="char:EOLhyphen"/>neſs, love, and allegiance, and may the Scepter and the ſword never depart from your Maje<g ref="char:EOLhyphen"/>ſtie and your Royal familie; that Common peace may once more be ſettled and ſtated in all your Kingdoms and Dominions in a calm and quiet order, like harmony in Muſick where all the ſtrings of an Inſtrument give ſeverall ſounds and yet are all in one Tune. This peace, this tranquillity of Order, this harmony of hearts and minds, may they ever be and con<g ref="char:EOLhyphen"/>tinue under your Majeſtie. And may your Ma<g ref="char:EOLhyphen"/>jeſtie
+<pb n="7" facs="tcp:42152:4"/>
+               <!-- PDF PAGE 108 -->long live and raign over us in all Felici<g ref="char:EOLhyphen"/>ty, Health and Tranquillity. Theſe good wiſh<g ref="char:EOLhyphen"/>es together with this ſmall preſent of Gold (their Mite) are all the offerings this poor Ci<g ref="char:EOLhyphen"/>ty is able to preſent; which bare eſſays of love and duty, may your Majeſtie be graci<g ref="char:EOLhyphen"/>ouſly pleaſed to honour with acceptance, and in the largeneſs of your royal breſt to con<g ref="char:EOLhyphen"/>ceive and be aſſured, that this City and her in<g ref="char:EOLhyphen"/>habitants do bear a great deale more of loyal duty, faithfulneſs, love, and affection towards your Majeſtie in their hearts and minds then they are able to expreſs, or I in words to de<g ref="char:EOLhyphen"/>clare.</p>
+            <closer>God bleſs and preſerve King CHARLES the Second.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
